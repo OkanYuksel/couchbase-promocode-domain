@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Domain/Promocode.Domain.csproj": {}
+  },
+  "projects": {
+    "/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Domain/Promocode.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Domain/Promocode.Domain.csproj",
+        "projectName": "Promocode.Domain",
+        "projectPath": "/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Domain/Promocode.Domain.csproj",
+        "packagesPath": "/Users/okany/.nuget/packages/",
+        "outputPath": "/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/okany/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gitlab.hepsiburada.com/api/v4/projects/1173/packages/nuget/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

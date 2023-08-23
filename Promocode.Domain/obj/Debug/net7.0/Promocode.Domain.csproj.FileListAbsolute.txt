@@ -1,0 +1,12 @@
+/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Domain/bin/Debug/net7.0/Promocode.Domain.deps.json
+/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Domain/bin/Debug/net7.0/Promocode.Domain.dll
+/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Domain/bin/Debug/net7.0/Promocode.Domain.pdb
+/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Domain/obj/Debug/net7.0/Promocode.Domain.csproj.AssemblyReference.cache
+/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Domain/obj/Debug/net7.0/Promocode.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Domain/obj/Debug/net7.0/Promocode.Domain.AssemblyInfoInputs.cache
+/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Domain/obj/Debug/net7.0/Promocode.Domain.AssemblyInfo.cs
+/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Domain/obj/Debug/net7.0/Promocode.Domain.csproj.CoreCompileInputs.cache
+/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Domain/obj/Debug/net7.0/Promocode.Domain.dll
+/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Domain/obj/Debug/net7.0/refint/Promocode.Domain.dll
+/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Domain/obj/Debug/net7.0/Promocode.Domain.pdb
+/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Domain/obj/Debug/net7.0/ref/Promocode.Domain.dll

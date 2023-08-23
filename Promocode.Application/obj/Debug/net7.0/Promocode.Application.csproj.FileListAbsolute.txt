@@ -1,0 +1,17 @@
+/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Application/bin/Debug/net7.0/Promocode.Application.deps.json
+/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Application/bin/Debug/net7.0/Promocode.Application.dll
+/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Application/bin/Debug/net7.0/Promocode.Application.pdb
+/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Application/obj/Debug/net7.0/Promocode.Application.csproj.AssemblyReference.cache
+/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Application/obj/Debug/net7.0/Promocode.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Application/obj/Debug/net7.0/Promocode.Application.AssemblyInfoInputs.cache
+/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Application/obj/Debug/net7.0/Promocode.Application.AssemblyInfo.cs
+/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Application/obj/Debug/net7.0/Promocode.Application.csproj.CoreCompileInputs.cache
+/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Application/obj/Debug/net7.0/Promocode.Application.dll
+/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Application/obj/Debug/net7.0/refint/Promocode.Application.dll
+/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Application/obj/Debug/net7.0/Promocode.Application.pdb
+/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Application/obj/Debug/net7.0/ref/Promocode.Application.dll
+/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Application/bin/Debug/net7.0/Promocode.Domain.dll
+/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Application/bin/Debug/net7.0/Promocode.DomainServices.dll
+/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Application/bin/Debug/net7.0/Promocode.DomainServices.pdb
+/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Application/bin/Debug/net7.0/Promocode.Domain.pdb
+/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Application/obj/Debug/net7.0/Promocode.Application.csproj.CopyComplete

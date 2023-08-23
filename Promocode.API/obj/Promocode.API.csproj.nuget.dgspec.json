@@ -1,0 +1,343 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.API/Promocode.API.csproj": {}
+  },
+  "projects": {
+    "/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.API/Promocode.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.API/Promocode.API.csproj",
+        "projectName": "Promocode.API",
+        "projectPath": "/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.API/Promocode.API.csproj",
+        "packagesPath": "/Users/okany/.nuget/packages/",
+        "outputPath": "/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/okany/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gitlab.hepsiburada.com/api/v4/projects/1173/packages/nuget/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Application/Promocode.Application.csproj": {
+                "projectPath": "/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Application/Promocode.Application.csproj"
+              },
+              "/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Infrastructure/Promocode.Infrastructure.csproj": {
+                "projectPath": "/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Infrastructure/Promocode.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Application/Promocode.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Application/Promocode.Application.csproj",
+        "projectName": "Promocode.Application",
+        "projectPath": "/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Application/Promocode.Application.csproj",
+        "packagesPath": "/Users/okany/.nuget/packages/",
+        "outputPath": "/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/okany/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gitlab.hepsiburada.com/api/v4/projects/1173/packages/nuget/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.DomainServices/Promocode.DomainServices.csproj": {
+                "projectPath": "/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.DomainServices/Promocode.DomainServices.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[8.0.0-preview.7.23375.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Domain/Promocode.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Domain/Promocode.Domain.csproj",
+        "projectName": "Promocode.Domain",
+        "projectPath": "/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Domain/Promocode.Domain.csproj",
+        "packagesPath": "/Users/okany/.nuget/packages/",
+        "outputPath": "/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/okany/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gitlab.hepsiburada.com/api/v4/projects/1173/packages/nuget/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.DomainServices/Promocode.DomainServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.DomainServices/Promocode.DomainServices.csproj",
+        "projectName": "Promocode.DomainServices",
+        "projectPath": "/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.DomainServices/Promocode.DomainServices.csproj",
+        "packagesPath": "/Users/okany/.nuget/packages/",
+        "outputPath": "/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.DomainServices/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/okany/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gitlab.hepsiburada.com/api/v4/projects/1173/packages/nuget/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Domain/Promocode.Domain.csproj": {
+                "projectPath": "/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Domain/Promocode.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Infrastructure/Promocode.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Infrastructure/Promocode.Infrastructure.csproj",
+        "projectName": "Promocode.Infrastructure",
+        "projectPath": "/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Infrastructure/Promocode.Infrastructure.csproj",
+        "packagesPath": "/Users/okany/.nuget/packages/",
+        "outputPath": "/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/okany/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gitlab.hepsiburada.com/api/v4/projects/1173/packages/nuget/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Domain/Promocode.Domain.csproj": {
+                "projectPath": "/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.Domain/Promocode.Domain.csproj"
+              },
+              "/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.DomainServices/Promocode.DomainServices.csproj": {
+                "projectPath": "/Users/okany/RiderProjects/couchbase-promocode/couchbase-promocode/Promocode.DomainServices/Promocode.DomainServices.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Couchbase.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.4.10, )"
+            },
+            "CouchbaseNetClient": {
+              "target": "Package",
+              "version": "[3.4.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
